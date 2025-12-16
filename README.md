@@ -1,9 +1,7 @@
 # Sistema de multas
 # 🚗 Radar de Velocidade em Python
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" />
-</p>
+
 
 ## 📌 Sobre o projeto
 
