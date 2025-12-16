@@ -31,8 +31,7 @@ O usuário informa a velocidade do carro e o sistema verifica se ele:
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+https://github.com/pedroluizeto631-ops/Sistema-de-multas```
 
 3. Execute o arquivo:
 
