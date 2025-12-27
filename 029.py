@@ -8,7 +8,7 @@ print('⚠️ É uma placa que sinaliza um radar!')
 sleep(2)
 print()
 
-V_MAX = 120  # constante (boa prática)
+V_MAX = 120 
 
 velocidade = int(input('Qual a velocidade atual do carro? -> '))
 
